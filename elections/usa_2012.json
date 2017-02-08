@@ -1,0 +1,18 @@
+{
+    "election_date": "2012-11-06",
+    "campaign_duration": "60d",
+    "candidates": {
+        "Obama": {
+            "names": ["@BarackObama", "Barack", "Barack Obama", "Obama"],
+            "party": ["Democratic Party", "democrats", "dems", "DNC"],
+            "real_score": "51.1",
+            "poll_score": "48.8"
+        },
+        "Romney": {
+            "names": ["@MittRomney", "Romney", "Mitt Romney"],
+            "party": ["Republican Party", "republicans", "reps", "GOP"],
+            "real_score": "47.2",
+            "poll_score": "48.1"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "election_date": "2016-11-08",
+    "campaign_duration": "60d",
+    "candidates": {
+        "Clinton": {
+            "names": ["@HillaryClinton", "Clinton", "Hillary"],
+            "party": ["Democratic Party", "democrats", "dems", "DNC"],
+            "real_score": "48.2",
+            "poll_score": "45.9"
+        },
+        "Trump": {
+            "names": ["@realDonaldTrump", "Trump", "Donald John Trump", "Donald Trump"],
+            "party": ["Republican Party", "republicans", "reps", "GOP"],
+            "real_score": "46.1",
+            "poll_score": "42.8"
+        }
+    }
+}
